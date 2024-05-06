@@ -9,6 +9,7 @@ export default function Home() {
         <ul>
           <li><Link href="/envTestPage">環境変数のテストページ</Link></li>
           <li><Link href="/paramsTestPage/123?query=abc">パス・クエリパラメータのテストページ</Link></li>
+          <li><Link href="/headerTestPage">リクエストヘッダーのテストページ</Link></li>
         </ul>
       </nav>
     </main>
