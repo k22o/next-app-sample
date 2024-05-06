@@ -5,6 +5,8 @@ Nextのディレクトリ構成やインストールするもの、サンプル�
 **TODO**
 
 - 500ページ
+- headerの設定
+- route handler
 
 ## setup
 
