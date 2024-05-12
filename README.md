@@ -4,7 +4,6 @@ Nextのディレクトリ構成やインストールするもの、サンプル�
 
 **TODO**
 
-- 500ページ
 - route handler
 
 ## setup

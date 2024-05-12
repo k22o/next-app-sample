@@ -15,6 +15,11 @@ export default function Page({
   params: {id: string}
   searchParams: {query: string}
 }) {
+
+  if(params.id.length != 3) {
+    throw new Error("idが不適切です。");
+  }
+
   return (
     <main className={styles.main}>
       <h1>params</h1>
