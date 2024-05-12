@@ -13,6 +13,7 @@ export default function Home() {
           <li><Link href="/headerTestPage">リクエストヘッダーのテストページ</Link></li>
           <li><Link href="/dummy">404ページ</Link></li>
           <li><Link href="/paramsTestPage/1234?query=abc">500ページ</Link></li>
+          <li><Link href="/api?query=q">route handlerのテストページ</Link></li>
         </ul>
       </nav>
     </main>
