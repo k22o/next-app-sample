@@ -8,11 +8,10 @@ export default function Home() {
     <main className={styles.main}>
       <nav>
         <ul>
-          <li><Link href="/envTestPage">環境変数のテストページ</Link></li>
-          <li><Link href="/paramsTestPage/123?query=abc">パス・クエリパラメータのテストページ</Link></li>
-          <li><Link href="/headerTestPage">リクエストヘッダーのテストページ</Link></li>
+          <li><Link href="/server/123?query=abc">サーバーサイドでの変数の取得方法</Link></li>
+          <li><Link href="/client/123?query=abc">クライアントサイドでの変数の取得方法</Link></li>
           <li><Link href="/dummy">404ページ</Link></li>
-          <li><Link href="/paramsTestPage/1234?query=abc">500ページ</Link></li>
+          <li><Link href="/server/1234?query=abc">500ページ</Link></li>
           <li><Link href="/api?query=q">route handlerのテストページ</Link></li>
         </ul>
       </nav>

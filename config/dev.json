@@ -1,3 +1,4 @@
 {
-    "ENV_TEST": "env_test_name_dev"
+    "ENV_TEST": "env_test_name_dev",
+    "NEXT_PUBLIC_CLIENT_ENV_TEST": "client_env_test"
 }
