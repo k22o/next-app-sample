@@ -1,6 +1,8 @@
 # Next-app-sample
 
-Nextのディレクトリ構成やインストールするもの、サンプルコードなどを蓄える (予定)
+Nextのディレクトリ構成やインストールするもの、サンプルコードなどを蓄える。
+
+- TODO: jotai, redux
 
 ## setup
 
@@ -13,7 +15,6 @@ $ npm install
 - sass
 - jest
 - storybook
-
 
 ```
 $ npx create-next-app@latest

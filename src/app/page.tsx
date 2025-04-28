@@ -28,6 +28,8 @@ export default function Home() {
           <li><Link href="/react-tutorial/hook/reducer">hooks reducer</Link></li>
           <li><Link href="/react-tutorial/hook/context">hooks context</Link></li>
           <li><Link href="/react-tutorial/hook/memo">hooks memo</Link></li>
+          <li><Link href="/react-tutorial/hook/transition_defer?type=1">hooks useTransition</Link></li>
+          <li><Link href="/react-tutorial/hook/transition_defer?type=2">hooks useDeferredValue</Link></li>
         </ul>
       </section>
     </main>
