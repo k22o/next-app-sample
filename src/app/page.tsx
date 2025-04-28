@@ -21,6 +21,13 @@ export default function Home() {
         <h2>Reactのチュートリアル</h2>
         <ul>
           <li><Link href="/react-tutorial/component">組み込みコンポーネント</Link></li>
+          <li><Link href="/react-tutorial/hook/effect?type=1">hooks: useEffect</Link></li>
+          <li><Link href="/react-tutorial/hook/effect?type=2">hooks: useLayoutEffect</Link></li>
+          <li><Link href="/react-tutorial/hook/ref">hooks useRef</Link></li>
+          <li>forwardRef, useImperativeHandleは省略 </li>
+          <li><Link href="/react-tutorial/hook/reducer">hooks reducer</Link></li>
+          <li><Link href="/react-tutorial/hook/context">hooks context</Link></li>
+          <li><Link href="/react-tutorial/hook/memo">hooks memo</Link></li>
         </ul>
       </section>
     </main>
