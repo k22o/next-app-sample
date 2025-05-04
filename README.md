@@ -1,6 +1,7 @@
 # Next-app-sample
 
 Nextのディレクトリ構成やインストールするもの、サンプルコードなどを蓄える。
+また、jest, mswなどのサンプルコードも蓄える。
 
 - TODO: jotai, redux
 
